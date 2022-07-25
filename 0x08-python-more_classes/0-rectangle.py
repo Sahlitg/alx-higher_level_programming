@@ -1,12 +1,7 @@
 #!/usr/bin/python3
-"""
-A rectangle.
-"""
+""" Rectangle class """
 
 
 class Rectangle:
-    """
-    Rectangle functions and data
-    """
-
+    """ empty class Rectangle that defines a rectangle """
     pass
